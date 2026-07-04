@@ -1,3 +1,5 @@
 import './MovieCard.scss';
 
-export const MovieCard = () => <>Put the card here</>;
+// import moviesFromServer from './api/movies.json';
+
+// export const MovieCard = () => ({});
